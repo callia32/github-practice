@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
 <head>
+  <title>MYWEB - Welcome</title>
   <meta charset="utf-8">
   <link rel="stylesheet" href="style1.css">
   <link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet">
@@ -25,7 +26,7 @@
         </button>
         <ul class="dropdown-menu" >
             <li><a href="2.html">1주차</a></li>
-            <li><a href="#">2주차</a></li>
+            <li><a href="22.html">2주차</a></li>
         </ul>
     </div>
     <button type="button" class="btn btn-info margin-left" onclick="location.href='3.html'">기타</button>
@@ -36,22 +37,17 @@
       </nav>
       <br><br>
 
-<div id="article">
-  <h2>자기소개</h2>
-  <div1>
-    <p> 안녕하세요! <strong>멋사 8기 민서현</strong>입니다:)</p>
-     <p>평소 프로그래밍에 관심이 많았었기에 멋사에 가입하게 되었습니다.<br>
-     이제 막 활동을 시작했지만 벌써 많은 걸 배우고 있는 것 같습니다ㅎㅎ<br>
-     새로 만나게 된 7조 스터디 멤버분들도 정말 좋고 앞으로도 재밌게 멋사 활동을 해나가고 싶습니다!!</p>
-     <img src="hello.jpg" width="50%">
-  </div1>
-  <style>
-    body {
-      background-image: url("background1.png");
-      background-size: cover;
-    }
-  </style>
-
-    </body>
-    
-    </html>
+    <div1>
+      <p>: 처음 만들어보는 나만의 웹페이지
+      </p>
+    </div1>
+  </div>
+</div>  
+<style>
+  body {
+    background-image: url("background1.png");
+    background-size: cover;
+}
+</style>
+</body>
+</html>
