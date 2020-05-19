@@ -10,6 +10,9 @@ h1 {
 body {
     background-color: #beebe9;
 }
+#past{
+    margin-left:46%;
+}
 
 #title {
     text-align: center;
